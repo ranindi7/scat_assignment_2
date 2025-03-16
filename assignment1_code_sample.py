@@ -1,3 +1,5 @@
+# Sample code to scan
+
 import os
 import pymysql
 from urllib.request import urlopen
